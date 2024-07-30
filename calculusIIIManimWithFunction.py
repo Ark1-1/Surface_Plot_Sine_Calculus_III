@@ -1,3 +1,8 @@
+# Modified Manim Animation
+# Based on original Manim code by 3Blue1Brown LLC
+# Copyright (c) 2018 3Blue1Brown LLC
+# Licensed under the MIT License. See the LICENSE file in the project root for license information.
+
 from manim import *
 
 class SurfacePlotWithFunction(ThreeDScene):
